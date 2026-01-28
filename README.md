@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiandoxa&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christiandoxa&theme=github_dark&exclude=HTML" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiandoxa" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christiandoxa&exclude=HTML" />
 </p>
 
 ---
