@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Christian+Doxa+Hamasiah+%F0%9F%91%8B;I+build+developer+tools+with+Rust+%F0%9F%A6%80;I+build+backends+with+Go+%F0%9F%90%B9;Pragmatic+Clean+Architecture+%2F+DDD+enthusiast+%F0%9F%A7%B1;Shipping+useful+software+%3E+chasing+perfect+code+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Christian+Doxa+Hamasiah+%F0%9F%91%8B;I+build+developer+tools+with+Rust+%F0%9F%A6%80;I+build+backends+with+Go+%F0%9F%90%B9;Pragmatic+Clean+Architecture+and+DDD+enthusiast+%F0%9F%A7%B1;Shipping+useful+software+over+perfect+code+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
