@@ -28,7 +28,7 @@
 
 ## ⭐ Featured Projects
 
-- **[prodex](https://github.com/christiandoxa/prodex)** — OpenAI profile pooling and safe auto-rotate for Codex CLI and Claude Code
+- **[prodex](https://github.com/christiandoxa/prodex)** — Prodex is a multi-account, multi-provider Codex wrapper with auto-rotation, Super mode, Smart Context, and token saving for Codex CLI and Claude Code
 - **[upkit](https://github.com/christiandoxa/upkit)** — One CLI to check and update Go, Rust, Node, Python, and Flutter toolchains
 - **[cleanux](https://github.com/christiandoxa/cleanux)** — Fast, safe, and scriptable Linux cleanup in one Rust CLI
 - **[jmpln](https://github.com/christiandoxa/jmpln)** — Tiny and ergonomic function patching crate with simple setup and RAII safety
